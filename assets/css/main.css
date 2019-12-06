@@ -2049,7 +2049,6 @@ input, select, textarea {
 						margin-top: -1.375em;
 						width: 2.75em;
 						height: 2.75em;
-						background: #000;
 						background: rgba(rgba(255, 255, 255, 0));
 						color: #ffffff;
 						text-align: center;
@@ -2061,25 +2060,7 @@ input, select, textarea {
 						-ms-transition: width .15s ease-in-out, padding-right .15s ease-in-out;
 						transition: width .15s ease-in-out, padding-right .15s ease-in-out;
 					}
-					#main > .panel.intro .pic .arrowR {
-						display: block;
-						position: absolute;
-						right: 0;
-						top: 50%;
-						margin-top: -1.375em;
-						width: 2.75em;
-						height: 2.75em;
-						background: rgba(rgba(255, 255, 255, 0));
-						color: #ffffff;
-						text-align: center;
-						line-height: 2.75em;
-						font-size: 1.5em;
-						z-index: 1;
-						-moz-transition: width .15s ease-in-out, padding-right .15s ease-in-out;
-						-webkit-transition: width .15s ease-in-out, padding-right .15s ease-in-out;
-						-ms-transition: width .15s ease-in-out, padding-right .15s ease-in-out;
-						transition: width .15s ease-in-out, padding-right .15s ease-in-out;
-					}
+					
 
 						#main > .panel.intro .pic .arrow:before {
 							position: relative;
