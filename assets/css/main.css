@@ -32,7 +32,9 @@ footer, header, hgroup, menu, nav, section {
 body {
 	line-height: 1;
 }
-
+.fas {
+	color: #f783ac;
+}
 ol, ul {
 	list-style: none;
 }
