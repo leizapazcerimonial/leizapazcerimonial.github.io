@@ -1368,7 +1368,7 @@ input, select, textarea {
 
 	strong, b, h1, h2, h3, h4, h5, h6 {
 		font-weight: 400;
-		color: #f783ac;
+		color: #1b1a1a;
 	}
 
 	h1 {
@@ -2093,6 +2093,7 @@ input, select, textarea {
 				}
 
 					#main > .panel.intro header h1 {
+						color: #f783ac;
 						line-height: 1.25em;
 						margin-bottom: 0;
 					}
